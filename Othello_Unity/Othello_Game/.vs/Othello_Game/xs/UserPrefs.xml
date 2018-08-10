@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{F3C1E58B-D988-E030-4D9C-78AD8E9FE1D0}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Grid.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Grid.cs" Line="80" Column="13" />
+      <File FileName="Assets/Scripts/Turn.cs" Line="25" Column="10" />
+      <File FileName="Assets/Scripts/Piece.cs" Line="25" Column="73" NotebookId="1" />
+      <File FileName="Assets/Scripts/Hud.cs" Line="17" Column="15" NotebookId="1" />
+      <File FileName="Assets/Scripts/Board.cs" Line="182" Column="29" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
